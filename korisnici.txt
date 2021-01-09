@@ -1,0 +1,4 @@
+filip|123|Filip|Zjalic|069-021-021|filip@mail.com|registrovani|/
+filip2|123|f|f|1|neka@mail.com|registrovani|/
+r|123|f|f|1|neka@mail.com|recepcioner|123123
+a|123|f|f|1|neka@mail.com|admin|/

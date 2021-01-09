@@ -1,0 +1,8 @@
+123123|Sunrise|Street 27|['100', '123', '250']|da|da|5
+213215|Rooftop|Street 753|['100', '123', '250']|ne|ne|4
+971467|Garden|Street 23|['100', '123', '250']|ne|da|4
+347501|Mountain|Street 444|['100', '123', '250']|da|ne|3
+009146|Beach Sun|Street 1367|['100', '123', '250']|da|ne|1
+719446|Luxury|Street 111|['100', '123', '250']|da|da|2
+111152|Someplace|Street 747a|['100', '123', '250']|ne|ne|1
+876411|Woodland|Street 12|['100', '123', '250']|ne|da|2
